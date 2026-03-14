@@ -28,7 +28,7 @@ automates both problems end to end.
 - Developer Console / Anonymous Apex
 
 ## 📊 Dashboard Preview
-
+![Dashboard Screenshot](https://github.com/user-attachments/assets/795bcfb8-3f10-40cd-bd24-a2a6ecf4d1b8)
 
 ## 🔑 Key Concepts Demonstrated
 - Bulk-safe Apex trigger patterns
